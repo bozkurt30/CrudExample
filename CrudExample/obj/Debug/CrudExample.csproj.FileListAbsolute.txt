@@ -1,0 +1,15 @@
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\obj\Debug\CrudExample.csprojAssemblyReference.cache
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\obj\Debug\CrudExample.Form1.resources
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\obj\Debug\CrudExample.Properties.Resources.resources
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\obj\Debug\CrudExample.csproj.GenerateResource.cache
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\obj\Debug\CrudExample.csproj.CoreCompileInputs.cache
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\bin\Debug\CrudExample.exe.config
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\bin\Debug\CrudExample.exe
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\bin\Debug\CrudExample.pdb
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\bin\Debug\EntityFramework.dll
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\bin\Debug\EntityFramework.xml
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\obj\Debug\CrudExample.csproj.CopyComplete
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\obj\Debug\CrudExample.exe
+C:\Users\Cihan\source\repos\CrudExample\CrudExample\obj\Debug\CrudExample.pdb
